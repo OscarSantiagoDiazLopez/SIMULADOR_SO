@@ -1,0 +1,16 @@
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\SIMULADOR_PROYECTO.Form1.resources
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\SIMULADOR_PROYECTO.csproj.GenerateResource.cache
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\SIMULADOR_PROYECTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\SIMULADOR_PROYECTO.AssemblyInfoInputs.cache
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\SIMULADOR_PROYECTO.AssemblyInfo.cs
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\SIMULADOR_PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\bin\Debug\net8.0-windows\SIMULADOR_PROYECTO.exe
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\bin\Debug\net8.0-windows\SIMULADOR_PROYECTO.deps.json
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\bin\Debug\net8.0-windows\SIMULADOR_PROYECTO.runtimeconfig.json
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\bin\Debug\net8.0-windows\SIMULADOR_PROYECTO.dll
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\bin\Debug\net8.0-windows\SIMULADOR_PROYECTO.pdb
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\SIMULADOR_PROYECTO.dll
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\refint\SIMULADOR_PROYECTO.dll
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\SIMULADOR_PROYECTO.pdb
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\SIMULADOR_PROYECTO.genruntimeconfig.cache
+C:\Users\odlop\Downloads\C#\SIMULADOR_PROYECTO\SIMULADOR_PROYECTO\obj\Debug\net8.0-windows\ref\SIMULADOR_PROYECTO.dll
